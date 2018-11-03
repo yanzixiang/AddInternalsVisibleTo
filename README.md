@@ -1,0 +1,2 @@
+# AddInternalsVisibleTo
+AddInternalsVisibleTo
