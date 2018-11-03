@@ -11,3 +11,10 @@
 
 + AddInternalsVisibleTo.exe A.dll B PUBKEY
 其中 A.dll 是想要修改的 dll 文件, B 是想要访问 A.dll 中 internal 成员的另外一个 dll, PUBKEY为公钥。
+
+# 合法吗？
+当前不合法，只用于测试使用哦。所有的法律责任请自负。
+
+<a href="http://www.wtfpl.net/"><img
+       src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
+       width="80" height="15" alt="WTFPL" /></a>
