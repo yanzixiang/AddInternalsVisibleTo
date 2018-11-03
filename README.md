@@ -16,5 +16,5 @@
 当前不合法，只用于测试使用哦。所有的法律责任请自负。
 
 <a href="http://www.wtfpl.net/"><img
-       src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
-       width="80" height="15" alt="WTFPL" /></a>
+       src="http://www.wtfpl.net/wp-content/uploads/2012/12/logo-220x1601.png"
+       width="220px" height="160px" alt="WTFPL" /></a>
